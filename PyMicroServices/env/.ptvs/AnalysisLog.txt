@@ -5521,3 +5521,91 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Exten
 2017-12-11T08:51:19: Start analysis
 2017-12-11T08:51:20: IncludeModulesFromModulePath = win32com
 2017-12-11T08:51:20: Deleting 0 files
+
+2017-12-13T13:50:06: Start analysis
+2017-12-13T13:50:07: IncludeModulesFromModulePath = win32com
+2017-12-13T13:50:08: Including d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose because nose.case needs updating
+2017-12-13T13:50:08: Deleting 0 files
+2017-12-13T13:50:08: astropy.CallDepth = 0
+2017-12-13T13:50:08: delphixpy.CallDepth = 0
+2017-12-13T13:50:08: matplotlib.CallDepth = 3
+2017-12-13T13:50:08: pandas.CallDepth = 0
+2017-12-13T13:50:08: sympy.CallDepth = 0
+2017-12-13T13:50:08: Start group "d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose" with 47 files
+2017-12-13T13:50:08: Parsing complete
+2017-12-13T13:50:08: Analyzing "nose.case" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\case.py")
+2017-12-13T13:50:08: Analyzing "nose.commands" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\commands.py")
+2017-12-13T13:50:08: Analyzing "nose.config" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\config.py")
+2017-12-13T13:50:08: Analyzing "nose.core" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\core.py")
+2017-12-13T13:50:08: Analyzing "nose.exc" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\exc.py")
+2017-12-13T13:50:08: Analyzing "nose.failure" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\failure.py")
+2017-12-13T13:50:08: Analyzing "nose.importer" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\importer.py")
+2017-12-13T13:50:08: Analyzing "nose.inspector" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\inspector.py")
+2017-12-13T13:50:08: Analyzing "nose.loader" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\loader.py")
+2017-12-13T13:50:08: Analyzing "nose.proxy" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\proxy.py")
+2017-12-13T13:50:08: Analyzing "nose.pyversion" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\pyversion.py")
+2017-12-13T13:50:08: Analyzing "nose.result" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\result.py")
+2017-12-13T13:50:08: Analyzing "nose.selector" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\selector.py")
+2017-12-13T13:50:08: Analyzing "nose.suite" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\suite.py")
+2017-12-13T13:50:08: Analyzing "nose.twistedtools" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\twistedtools.py")
+2017-12-13T13:50:08: Analyzing "nose.util" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\util.py")
+2017-12-13T13:50:08: Analyzing "nose" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\__init__.py")
+2017-12-13T13:50:08: Analyzing "nose.__main__" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\__main__.py")
+2017-12-13T13:50:08: Analyzing "nose.ext.dtcompat" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\ext\dtcompat.py")
+2017-12-13T13:50:08: Analyzing "nose.ext" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\ext\__init__.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.allmodules" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\allmodules.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.attrib" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\attrib.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.base" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\base.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.builtin" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\builtin.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.capture" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\capture.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.collect" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\collect.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.cover" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\cover.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.debug" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\debug.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.deprecated" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\deprecated.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.doctests" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\doctests.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.errorclass" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\errorclass.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.failuredetail" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\failuredetail.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.isolate" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\isolate.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.logcapture" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\logcapture.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.manager" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\manager.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.multiprocess" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\multiprocess.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.plugintest" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\plugintest.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.prof" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\prof.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.skip" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\skip.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.testid" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\testid.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins.xunit" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\xunit.py")
+2017-12-13T13:50:08: Analyzing "nose.plugins" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\plugins\__init__.py")
+2017-12-13T13:50:08: Analyzing "nose.sphinx.pluginopts" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\sphinx\pluginopts.py")
+2017-12-13T13:50:08: Analyzing "nose.sphinx" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\sphinx\__init__.py")
+2017-12-13T13:50:08: Analyzing "nose.tools.nontrivial" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\tools\nontrivial.py")
+2017-12-13T13:50:08: Analyzing "nose.tools.trivial" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\tools\trivial.py")
+2017-12-13T13:50:08: Analyzing "nose.tools" ("d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose\tools\__init__.py")
+2017-12-13T13:50:08: Starting analysis of 47 modules
+2017-12-13T13:50:10: Analysis complete
+2017-12-13T13:50:10: Saving group "d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose"
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat.DocFileTest: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat.testfile: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat.DocTestParser.DocTestParser: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat.DocTest.DocTest: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat._module_relative_path: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.ext.dtcompat._module_relative_path: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.util.test_address: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.util._ls_tree_lines: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.util.ispackage: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.suite.ContextSuite.ContextSuite: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.suite.LazySuite.LazySuite: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.suite.ContextSuiteFactory.ContextSuiteFactory: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.pyversion.isgenerator: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.pyversion.UnboundSelf.UnboundSelf: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.pyversion.unbound_method: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.case.MethodTestCase.MethodTestCase: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.case.MethodTestCase.MethodTestCase: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.importer.remove_path: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.TestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.TestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.TestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.defaultTestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.defaultTestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: [ERROR] nose.loader.defaultTestLoader.TestLoader: Unknown has no name
+2017-12-13T13:50:11: End of group "d:\onedrive\onedrive - laso consulting s.a. de c.v\development\test\pymicroservices\pymicroservices\env\lib\site-packages\nose"
+2017-12-13T13:50:11: Deleting 0 files
